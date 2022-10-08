@@ -1,3 +1,5 @@
+//TC - O(nlogk)
+//SC - O(n)
 class Solution {
     public List<String> topKFrequent(String[] words, int k) {
         Map<String, Integer> map = new HashMap<>(); //create a map to count the values of each string
