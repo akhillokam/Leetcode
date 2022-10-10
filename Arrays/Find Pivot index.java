@@ -1,3 +1,5 @@
+//O(n)
+//O(1)
 class Solution {
     public int pivotIndex(int[] nums) {
         int sum = 0;
