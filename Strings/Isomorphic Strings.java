@@ -1,3 +1,4 @@
+O(n), O(n)
 class Solution {
     public boolean isIsomorphic(String s, String t) {
         Map m = new HashMap();
